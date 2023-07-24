@@ -64,6 +64,11 @@ function closeModal() {
     let modal = document.getElementById("info-modal");
     if (typeof modal == "undefined" || modal === null) return;
     modal.style.display = "none";
+    document.getElementById('current-pokemon-id').innerHTML = '';
+    document.getElementById('current-pokemon-name').innerHTML = '';
+    document.getElementById('current-pokemon-types').innerHTML = '';
+    document.getElementById('current-pokemon-height').innerHTML = '';
+    document.getElementById('current-pokemon-weight').innerHTML = '';
 }
 
 function updateCurrentPokemonImage(id) {
