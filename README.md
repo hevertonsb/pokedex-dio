@@ -1,4 +1,5 @@
-# pokedex-dio
+<h1 align="center">
+  Pokédex com Poke API
+</h1>
 
-[Pokédex](https://www.google.com](https://pokebalducce.netlify.app/)https://pokebalducce.netlify.app/)
-
+ <a href="https://pokebalducce.netlify.app/">🔗 Live Preview</a>
