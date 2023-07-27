@@ -69,6 +69,7 @@ function closeModal() {
     document.getElementById('current-pokemon-types').innerHTML = '';
     document.getElementById('current-pokemon-height').innerHTML = '';
     document.getElementById('current-pokemon-weight').innerHTML = '';
+    document.getElementById('current-pokemon-description').innerHTML = '';
 }
 
 function updateCurrentPokemonImage(id) {
